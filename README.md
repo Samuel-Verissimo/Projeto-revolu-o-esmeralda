@@ -11,7 +11,7 @@ Esse sistema foi desenvolvido e implantado de forma voluntária para o projeto s
 - Gerenciamento de alunos + documentações
 
 
-### Linguagens utilizadas 
+### Tecnologias utilizadas 
 
 - PHP       (CodeIgniter4)
 - jQuery    (JavaScript)       
